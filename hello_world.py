@@ -1,2 +1,2 @@
-input_msg= input("Enter your message : ")
-print(input_msg)
+input2= input("Enter your message : ")
+print(input2)
