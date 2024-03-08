@@ -1,4 +1,7 @@
-#Git task project
-*This project has a python file that will print input to the user*
-*This is part of a Verion Control task
-
+- Git task project
+- This project has a python file that will print input to the user
+- This is part of a Verion Control task
+- I have created 2 issues for the hello_world.py file 
+- Issue-1: Rename the input variable
+- Issue-2: Add comments to the code
+- Have implemented the changes to the file and commited them successfully
